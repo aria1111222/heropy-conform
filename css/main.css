@@ -269,10 +269,9 @@ header .badges .badge {
 /*VISUAL*/
 .visual {
   margin-top: 120px;
-  background-image: url("../images/cycle.png");
+  background-image: url("../images/road.jpg");
   background-position: center;
-  background-repeat: no-repeat;
-  background-size: 630px;
+
 }
 .visual .inner {
   height: 646px;
@@ -288,12 +287,12 @@ header .badges .badge {
   top: 230px;
   left: 148px;
 }
-.visual .cup1.image {
+.visual .bg.image {
   position: absolute;
   bottom: 0;
   right: -47px;
 }
-.visual .cup1.text {
+.visual .bg.text {
   position: absolute;
   top: 40px;
   right: 60px;
